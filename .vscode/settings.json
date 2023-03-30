@@ -1,0 +1,25 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/__pypackages__/3.10/lib"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/__pypackages__/3.10/lib"
+  ],
+  "cSpell.words": [
+    "aiwo",
+    "Autor",
+    "Autores",
+    "Categoria",
+    "descricao",
+    "Editora",
+    "evmr",
+    "livraria",
+    "Livro",
+    "livros",
+    "Paulo",
+    "preco",
+    "quantidade",
+    "sowa",
+    "titulo"
+  ]
+}
