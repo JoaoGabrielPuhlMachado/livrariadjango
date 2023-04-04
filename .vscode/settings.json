@@ -10,16 +10,25 @@
     "Autor",
     "Autores",
     "Categoria",
+    "categorias",
+    "corsheaders",
     "descricao",
     "Editora",
+    "editoras",
     "evmr",
     "livraria",
     "Livro",
     "livros",
+    "nascimento",
     "Paulo",
     "preco",
     "quantidade",
+    "redoc",
+    "Redoc",
+    "simplejwt",
     "sowa",
-    "titulo"
+    "telefone",
+    "titulo",
+    "Usuario"
   ]
 }
