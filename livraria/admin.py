@@ -37,7 +37,7 @@ class LivroAdmin(admin.ModelAdmin):
 class UsuarioAdmin(UserAdmin):
     fieldsets = (
         (None, {"fields": ("username", "password")}),
-        (_("Personal info"), {"fields": ("first_name", "last_name", "email", "cpf", "telefone", "data_nascimento")}),
+        (_("Personal info"), {"fields": ("first_name", "last_name","foto", "email", "cpf", "telefone", "data_nascimento")}),
         (
             _("Permissions"),
             {
